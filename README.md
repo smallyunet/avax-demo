@@ -13,10 +13,9 @@
 4. 用 hardhat 部署一个 ERC-20 合约到 AvNet
 5. 在 MetaMask 钱包发起 ERC-20 代币的转账
 
-以上所有步骤的命令都来源于官方文档，每个步骤的详细说明可以直接参考官方文档：
-- https://build.avax.network/docs/tooling/get-avalanche-cli
+以上所有步骤的命令都来源于官方文档，每个步骤的详细说明可以直接参考官方文档。
 
-具体步骤提供了视频演示，可以在 YouTube 看到详细的步骤演示：
+具体操作过程提供了视频演示，可以在 YouTube 看到详细的步骤演示：
 
 - https://youtu.be/DxmtOCOtjQQ?si=ZrboPQZ83A1rNl6S
 
